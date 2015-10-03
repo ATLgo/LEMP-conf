@@ -1,0 +1,9 @@
+{
+    "server":"0.0.0.0",
+    "port_password":{
+        "8952":"IDUtlq05",
+        "9872":"IDUtlq05z"
+    },
+    "timeout":300,    
+    "method":"aes-256-cfb"
+}
